@@ -3,7 +3,7 @@ Big Mountain Studio
 </h1>
 
 <div align="center">
-       <img src="./images/swiftuiViews.png"/>
+       <img src="./images/swiftui.png"/>
 </div>
 
 </br>
