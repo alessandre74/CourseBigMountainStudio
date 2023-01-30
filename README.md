@@ -8,6 +8,4 @@ Big Mountain Studio
 
 </br>
 
-## 💻 Course
-
 ## 🚀 [SwiftUI - Visual reference guide - Mark Moeykens free book course.](https://www.bigmountainstudio.com/)
