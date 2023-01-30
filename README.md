@@ -10,6 +10,4 @@ Big Mountain Studio
 
 ## 💻 Course
 
-## 🚀 SwiftUI - Visual reference guide - Mark Moeykens free book course.
-
-- [Big Mountain Studio](https://www.bigmountainstudio.com/)
+## 🚀 [SwiftUI - Visual reference guide - Mark Moeykens free book course.](https://www.bigmountainstudio.com/)
