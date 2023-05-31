@@ -8,17 +8,17 @@
 import SwiftUI
 
 struct ContentView: View {
-    var body: some View {
-        ViewOne()
-//        ViewTwo()
+  var body: some View {
+//        ViewOne()
+    ViewTwo()
 //        ViewThree()
 //        ViewFour()
 //        ViewFive()
-    }
+  }
 }
 
 struct ContentView_Previews: PreviewProvider {
-    static var previews: some View {
-        ContentView()
-    }
+  static var previews: some View {
+    ContentView()
+  }
 }
